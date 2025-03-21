@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blox Fruits Wiki Fan</title>
+  <style>
+    body { background-color: #000; color: #fff; margin: 0; font-family: Arial; }
+    header { background-color: #111; text-align: center; padding: 30px; }
+    header h1 { color: #ffd700; font-size: 4em; }
+    nav { background-color: #222; text-align: center; padding: 15px; }
+    nav a { color: #fff; margin: 0 10px; text-decoration: none; border: 2px solid #ffd700; padding: 8px 12px; border-radius: 5px; display: inline-block; }
+    nav a:hover { background-color: #ffd700; color: #000; }
+    section { max-width: 1000px; margin: auto; padding: 30px; }
+    h2 { color: #ffd700; border-bottom: 2px solid #333; padding-bottom: 8px; }
+    .item { background-color: #111; padding: 15px; margin: 15px 0; border-radius: 8px; border: 1px solid #333; }
+    .item h3 { margin: 0; color: #ffd700; }
+    .item p { margin: 8px 0; }
+    img { display: block; margin-bottom: 10px; }
+    footer { text-align: center; padding: 20px; color: #777; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Blox Fruits</h1>
+  </header>
+
+  <nav>
+    <a href="#frutas">Frutas</a>
+    <a href="#espadas">Espadas</a>
+    <a href="#razas">Razas</a>
+    <a href="#accesorios">Accesorios</a>
+    <a href="#puzles">Puzles</a>
+    <a href="#pistolas">Pistolas</a>
+    <a href="#eventos">Eventos</a>
+    <a href="#estilos">Estilos</a>
+  </nav>
+
+  <section id="frutas">
+    <h2>Frutas</h2>
+    <div class="item">
+      
+      <h3>Fruta Magma</h3>
+      <p>Habilidad: Control del magma, ataques explosivos y de área.</p>
+      <p>Obtención: 850,000 Beli o 1,300 Robux.</p>
+    </div>
+    <div class="item">
+      <img src="https://static.wikia.nocookie.net/blox-fruits/images/8/89/RumbleFruit.png" width="100" alt="Fruta Rumble">
+      <h3>Fruta Rumble</h3>
+      <p>Habilidad: Control de rayos y truenos.</p>
+      <p>Obtención: 2,100,000 Beli o 2,100 Robux.</p>
+    </div>
+    <div class="item">
+      <img src="https://static.wikia.nocookie.net/blox-fruits/images/e/e7/DoughFruit.png" width="100" alt="Fruta Dough">
+      <h3>Fruta Dough</h3>
+      <p>Habilidad: Puños de masa, ataques cuerpo a cuerpo poderosos.</p>
+      <p>Obtención: 2,800,000 Beli o 2,400 Robux.</p>
+    </div>
+    <div class="item">
+      <img src="https://static.wikia.nocookie.net/blox-fruits/images/a/aa/LeopardFruit.png" width="100" alt="Fruta Leopardo">
+      <h3>Fruta Leopardo</h3>
+      <p>Habilidad: Transformación en leopardo, ataques rápidos y fuertes.</p>
+      <p>Obtención: 5,000,000 Beli o 3,000 Robux.</p>
+    </div>
+    <div class="item">
+      <img src="https://static.wikia.nocookie.net/blox-fruits/images/f/f5/VenomFruit.png" width="100" alt="Fruta Veneno">
+      <h3>Fruta Veneno</h3>
+      <p>Habilidad: Charco venenoso, nube tóxica.</p>
+      <p>Obtención: 3,000,000 Beli o 2,450 Robux.</p>
+    </div>
+    <div class="item">
+      <img src="https://static.wikia.nocookie.net/blox-fruits/images/f/fd/FlameFruit.png" width="100" alt="Fruta Fuego">
+      <h3>Fruta Fuego</h3>
+      <p>Habilidad: Control del fuego, ataques explosivos.</p>
+      <p>Obtención: 250,000 Beli o 550 Robux.</p>
+    </div>
+    <div class="item">
+      <img src="https://static.wikia.nocookie.net/blox-fruits/images/1/1c/LightFruit.png" width="100" alt="Fruta Luz">
+      <h3>Fruta Luz</h3>
+      <p>Habilidad: Teletransportación y rayos de luz.</p>
+      <p>Obtención: 650,000 Beli o 1,100 Robux.</p>
+    </div>
+    <div class="item">
+      <img src="https://static.wikia.nocookie.net/blox-fruits/images/0/0b/SandFruit.png" width="100" alt="Fruta Arena">
+      <h3>Fruta Arena</h3>
+      <p>Habilidad: Control de arena, ataques succionadores.</p>
+      <p>Obtención: 420,000 Beli o 850 Robux.</p>
+    </div>
+  <div class="item">
+      <h3>Fruta Phoenix</h3>
+      <p>Habilidad: Transformación en ave fénix, curación y ataques aéreos.</p>
+      <p>Obtención: 1,800,000 Beli o 2,000 Robux.</p>
+    </div>
+    <div class="item">
+      <h3>Fruta Quake</h3>
+      <p>Habilidad: Terremotos y ondas sísmicas de gran alcance.</p>
+      <p>Obtención: 1,000,000 Beli o 1,500 Robux.</p>
+    </div>
+    <div class="item">
+      <h3>Fruta Ice</h3>
+      <p>Habilidad: Congelación y control del hielo.</p>
+      <p>Obtención: 350,000 Beli o 750 Robux.</p>
+    </div>
+    <div class="item">
+      <h3>Fruta Barrier</h3>
+      <p>Habilidad: Crear barreras impenetrables.</p>
+      <p>Obtención: 800,000 Beli o 1,250 Robux.</p>
+    </div>
+    <div class="item">
+      <h3>Fruta String</h3>
+      <p>Habilidad: Control de hilos para ataque y defensa.</p>
+      <p>Obtención: 1,500,000 Beli o 1,800 Robux.</p>
+    </div>
+    <div class="item">
+      <h3>Fruta Chop</h3>
+      <p>Habilidad: Inmunidad a ataques de espada.</p>
+      <p>Obtención: 30,000 Beli o 100 Robux.</p>
+    </div>
+    <div class="item">
+      <h3>Fruta Revive</h3>
+      <p>Habilidad: Revivir después de ser derrotado una vez.</p>
+      <p>Obtención: 550,000 Beli o 975 Robux.</p>
+    </div>
+    <div class="item">
+      <h3>Fruta Shadow</h3>
+      <p>Habilidad: Control de sombras y minions oscuros.</p>
+      <p>Obtención: 2,900,000 Beli o 2,425 Robux.</p>
+    </div>
+    <div class="item">
+      <h3>Fruta Love</h3>
+      <p>Habilidad: Controlar a los enemigos con el poder del amor.</p>
+      <p>Obtención: 700,000 Beli o 1,300 Robux.</p>
+    </div>
+    <div class="item">
+      <h3>Fruta Gravity</h3>
+      <p>Habilidad: Manipulación de la gravedad y rocas.</p>
+      <p>Obtención: 2,500,000 Beli o 2,300 Robux.</p>
+    </div>
+  <div class="item">
+      <h3>Fruta Diamond</h3>
+      <p>Habilidad: Endurecimiento corporal tipo diamante.</p>
+      <p>Obtención: 600,000 Beli o 1,000 Robux.</p>
+    </div>
+    <div class="item">
+      <h3>Fruta Bomb</h3>
+      <p>Habilidad: Explosiones poderosas a distancia.</p>
+      <p>Obtención: 80,000 Beli o 220 Robux.</p>
+    </div>
+    <div class="item">
+      <h3>Fruta Spring</h3>
+      <p>Habilidad: Movilidad con resortes, saltos altos.</p>
+      <p>Obtención: 60,000 Beli o 180 Robux.</p>
+    </div>
+    <div class="item">
+      <h3>Fruta Kilo</h3>
+      <p>Habilidad: Aumentar peso para ataques y movimientos.</p>
+      <p>Obtención: 5,000 Beli o 50 Robux.</p>
+    </div>
+    <div class="item">
+      <h3>Fruta Spin</h3>
+      <p>Habilidad: Volar girando, ataques giratorios.</p>
+      <p>Obtención: 7,500 Beli o 75 Robux.</p>
+    </div>
+  <div class="item">
+      <h3>Fruta Smoke</h3>
+      <p>Habilidad: Transformación en humo para evadir ataques.</p>
+      <p>Obtención: 100,000 Beli o 250 Robux.</p>
+    </div>
+    <div class="item">
+      <h3>Fruta Paw</h3>
+      <p>Habilidad: Crear patas explosivas para repeler enemigos.</p>
+      <p>Obtención: 2,300,000 Beli o 2,200 Robux.</p>
+    </div>
+    <div class="item">
+      <h3>Fruta Control</h3>
+      <p>Habilidad: Manipular el entorno dentro de una esfera.</p>
+      <p>Obtención: 3,200,000 Beli o 2,500 Robux.</p>
+    </div>
+    <div class="item">
+      <h3>Fruta Portal</h3>
+      <p>Habilidad: Teletransportación a través de portales.</p>
+      <p>Obtención: 1,900,000 Beli o 2,000 Robux.</p>
+    </div>
+  </section>
+  <section id="espadas">
+    <h2>Espadas</h2>
+    <div class="item">
+      <img src="https://static.wikia.nocookie.net/blox-fruits/images/4/49/Shisui.png" width="100" alt="Espada Shisui">
+      <h3>Shisui</h3>
+      <p>Espada legendaria con ataques veloces.</p>
+      <p>Obtención: Derrotando al Maestro de Espadas en Segundo Mar.</p>
+    </div>
+    <div class="item">
+      <img src="https://static.wikia.nocookie.net/blox-fruits/images/2/2f/Yama.png" width="100" alt="Espada Yama">
+      <h3>Yama</h3>
+      <p>Espada maldita poderosa.</p>
+      <p>Obtención: Derrotando enemigos en el Segundo Mar.</p>
+    </div>
+    <div class="item">
+      <img src="https://static.wikia.nocookie.net/blox-fruits/images/e/ef/Wando.png" width="100" alt="Espada Wando">
+      <h3>Wando</h3>
+      <p>Espada rápida y balanceada.</p>
+      <p>Obtención: Comprada en Segundo Mar por 2,000,000 Beli.</p>
+    </div>
+    <div class="item">
+      <img src="https://static.wikia.nocookie.net/blox-fruits/images/1/10/Saber.png" width="100" alt="Espada Saber">
+      <h3>Saber</h3>
+      <p>Espada poderosa usada por el Saber Expert.</p>
+      <p>Obtención: Derrotando al Saber Expert en el Primer Mar.</p>
+    </div>
+    <div class="item">
+      <img src="https://static.wikia.nocookie.net/blox-fruits/images/4/4a/Katana.png" width="100" alt="Katana">
+      <h3>Katana</h3>
+      <p>Espada básica y balanceada.</p>
+      <p>Obtención: Comprada por 1,000 Beli en el Primer Mar.</p>
+    </div>
+  <div class="item">
+      <h3>Midnight Blade</h3>
+      <p>Espada oscura con ataques veloces y sombra.</p>
+      <p>Obtención: Comprada en Segundo Mar por 1000 fragmentos.</p>
+    </div>
+    <div class="item">
+      <h3>Buddy Sword</h3>
+      <p>Espada afilada con gran alcance.</p>
+      <p>Obtención: Derrotando al Cake Queen.</p>
+    </div>
+    <div class="item">
+      <h3>Dragon Trident</h3>
+      <p>Tridente legendario con poderes de dragón.</p>
+      <p>Obtención: Derrotando a Dragón NPC en Segundo Mar.</p>
+    </div>
+    <div class="item">
+      <h3>Tushita</h3>
+      <p>Espada celestial poderosa.</p>
+      <p>Obtención: Completando el desafío de antorchas en Segundo Mar.</p>
+    </div>
+    <div class="item">
+      <h3>Hallow Scythe</h3>
+      <p>Guadaña maldita con gran daño.</p>
+      <p>Obtención: Evento Halloween, derrotando al Soul Reaper.</p>
+    </div>
+  <div class="item">
+      <h3>Soul Cane</h3>
+      <p>Bastón con habilidades mágicas.</p>
+      <p>Obtención: Comprado en el Primer Mar por 750,000 Beli.</p>
+    </div>
+    <div class="item">
+      <h3>Twin Hooks</h3>
+      <p>Ganchos dobles veloces y con buen daño.</p>
+      <p>Obtención: Derrotando al Captain Elephant en el Tercer Mar.</p>
+    </div>
+    <div class="item">
+      <h3>Gravity Cane</h3>
+      <p>Cetro con habilidades de gravedad.</p>
+      <p>Obtención: Derrotando al Fajita Boss en Segundo Mar.</p>
+    </div>
+    <div class="item">
+      <h3>Shark Saw</h3>
+      <p>Espada con aspecto de sierra, gran daño.</p>
+      <p>Obtención: Derrotando al Saw Boss en el Primer Mar.</p>
+    </div>
+    <div class="item">
+      <h3>Triple Katana</h3>
+      <p>Conjunto de tres katanas, daño balanceado.</p>
+      <p>Obtención: Comprado en el Primer Mar por 60,000 Beli.</p>
+    </div>
+  <div class="item">
+      <h3>Longsword</h3>
+      <p>Espada clásica de gran alcance y daño balanceado.</p>
+      <p>Obtención: Comprada en el Primer Mar por 100,000 Beli.</p>
+    </div>
+    <div class="item">
+      <h3>Pipe</h3>
+      <p>Arma cuerpo a cuerpo sencilla pero efectiva.</p>
+      <p>Obtención: Derrotando al Boss Smoke Admiral en el Segundo Mar.</p>
+    </div>
+  </section>
+  <section id="razas">
+    <h2>Razas</h2>
+    <div class="item">
+      <img src="https://static.wikia.nocookie.net/blox-fruits/images/4/4f/HumanRace.png" width="100" alt="Raza Humano">
+      <h3>Humano</h3>
+      <p>Descripción: Raza inicial balanceada.</p>
+    </div>
+    <div class="item">
+      <img src="https://static.wikia.nocookie.net/blox-fruits/images/c/cb/MinkRace.png" width="100" alt="Raza Mink">
+      <h3>Mink</h3>
+      <p>Descripción: Velocidad mejorada y habilidades eléctricas.</p>
+    </div>
+  <div class="item">
+      <h3>Sky</h3>
+      <p>Descripción: Raza con doble salto y habilidades aéreas.</p>
+    </div>
+    <div class="item">
+      <h3>Fishman</h3>
+      <p>Descripción: Habilidad de respirar bajo el agua y mayor defensa.</p>
+    </div>
+    <div class="item">
+      <h3>Ghoul</h3>
+      <p>Descripción: Regeneración rápida y habilidades oscuras.</p>
+    </div>
+    <div class="item">
+      <h3>Cyborg</h3>
+      <p>Descripción: Mayor resistencia y habilidades tecnológicas.</p>
+    </div>
+    <div class="item">
+      <h3>Rabbit</h3>
+      <p>Descripción: Aumenta la velocidad y agilidad.</p>
+    </div>
+  <div class="item">
+      <h3>Demon</h3>
+      <p>Descripción: Habilidad de regeneración rápida y mayor fuerza.</p>
+    </div>
+    <div class="item">
+      <h3>Angel</h3>
+      <p>Descripción: Mayor velocidad y habilidades curativas.</p>
+    </div>
+  </section>
+  <section id="accesorios">
+    <h2>Accesorios</h2>
+    <div class="item">
+      <img src="https://static.wikia.nocookie.net/blox-fruits/images/f/f3/BlackCape.png" width="100" alt="Capa Negra">
+      <h3>Capa Negra</h3>
+      <p>Incrementa salud y energía.</p>
+    </div>
+  </section>
+
+  <section id="puzles">
+    <h2>Puzles</h2>
+    <div class="item">
+      <h3>Cómo conseguir Yama</h3>
+      <p>Derrota 30 Elite Pirates y extrae la espada en la Mansión.</p>
+    </div>
+    <div class="item">
+      <h3>Cómo conseguir Tushita</h3>
+      <p>Completa la prueba activando antorchas y derrotando a Longma.</p>
+    </div>
+    <div class="item">
+      <h3>Cómo conseguir CDK (Cursed Dual Katana)</h3>
+      <p>Maximiza Yama y Tushita, completa misión secreta y fusiónalas.</p>
+    </div>
+  </section>
+
+  <section id="pistolas">
+    <h2>Pistolas</h2>
+    <div class="item">
+      <h3>Flintlock</h3>
+      <p>Pistola básica de corto alcance.</p>
+    </div>
+    <div class="item">
+      <h3>Musket</h3>
+      <p>Pistola de largo alcance, daño medio.</p>
+    </div>
+    <div class="item">
+      <h3>Refined Flintlock</h3>
+      <p>Mejora del Flintlock con mayor precisión.</p>
+    </div>
+    <div class="item">
+      <h3>Refined Musket</h3>
+      <p>Versión avanzada del Musket con mejor daño.</p>
+    </div>
+    <div class="item">
+      <h3>Slingshot</h3>
+      <p>Arma sencilla para principiantes.</p>
+    </div>
+    <div class="item">
+      <h3>Refined Slingshot</h3>
+      <p>Mejora del Slingshot, mayor daño.</p>
+    </div>
+    <div class="item">
+      <h3>Bazooka</h3>
+      <p>Pistola explosiva de gran daño.</p>
+    </div>
+    <div class="item">
+      <h3>Kabucha</h3>
+      <p>Arma de explosión precisa y poderosa.</p>
+    </div>
+    <div class="item">
+      <h3>Acidum Rifle</h3>
+      <p>Rifle con disparos ácidos, gran daño.</p>
+    </div>
+    <div class="item">
+      <h3>Cannon</h3>
+      <p>Arma pesada de largo alcance.</p>
+    </div>
+  <div class="item">
+      <h3>Refined Cannon</h3>
+      <p>Mejora del Cannon con mayor precisión y daño.</p>
+    </div>
+    <div class="item">
+      <h3>Serpent Bow</h3>
+      <p>Arma única con disparos de flechas serpenteantes.</p>
+    </div>
+    <div class="item">
+      <h3>Refined Kabucha</h3>
+      <p>Versión avanzada del Kabucha, mayor daño y velocidad.</p>
+    </div>
+    <div class="item">
+      <h3>Dragon Rifle</h3>
+      <p>Rifle con apariencia de dragón, daño alto y alcance largo.</p>
+    </div>
+    <div class="item">
+      <h3>Golden Flintlock</h3>
+      <p>Versión dorada del Flintlock, daño mejorado y decorativo.</p>
+    </div>
+  <div class="item">
+      <h3>Sniper</h3>
+      <p>Rifle de largo alcance, daño alto y precisión.</p>
+    </div>
+    <div class="item">
+      <h3>Iron Mace</h3>
+      <p>Arma pesada, gran daño en corto alcance.</p>
+    </div>
+  </section>
+  <section id="eventos">
+    <h2>Eventos Marinos</h2>
+    <div class="item">
+      <h3>Kraken</h3>
+      <p>Jefe marino poderoso que aparece en altamar, da recompensas especiales al ser derrotado.</p>
+    </div>
+    <div class="item">
+      <h3>Sea Beast</h3>
+      <p>Bestia marina gigante que otorga recompensas raras.</p>
+    </div>
+    <div class="item">
+      <h3>Golden Chest</h3>
+      <p>Cofre dorado que aparece aleatoriamente en el mar, contiene tesoros únicos.</p>
+    </div>
+  </section>
+
+  <section id="estilos">
+    <h2>Estilos de Pelea</h2>
+    <div class="item">
+      <h3>Water Kung Fu</h3>
+      <p>Estilo basado en movimientos acuáticos. Comprado en el Primer Mar.</p>
+    </div>
+    <div class="item">
+      <h3>Electric</h3>
+      <p>Estilo rápido con ataques eléctricos. Se compra en el Segundo Mar.</p>
+    </div>
+    <div class="item">
+      <h3>Dark Step</h3>
+      <p>Estilo de patadas poderosas, mejorable a Death Step.</p>
+    </div>
+    <div class="item">
+      <h3>Dragon Breath</h3>
+      <p>Estilo basado en el poder del dragón. Se compra con fragmentos.</p>
+    </div>
+    <div class="item">
+      <h3>Superhuman</h3>
+      <p>Estilo avanzado que combina todos los estilos previos. Se obtiene completando los estilos anteriores.</p>
+    </div>
+  <div class="item">
+      <h3>Sea King</h3>
+      <p>Jefe gigante que aparece aleatoriamente, otorga recompensas especiales.</p>
+    </div>
+    <div class="item">
+      <h3>Dark Beard Event</h3>
+      <p>Evento especial con aparición del jefe Dark Beard.</p>
+    </div>
+  </section>
+  <footer>
+    <p>En desarrollo</p>
+    <p>Creado por ChatGPT & Victor</p>
+  
+
+  
+
+  </footer>
+</body>
+</html>
